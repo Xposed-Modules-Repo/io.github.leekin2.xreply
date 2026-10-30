@@ -39,9 +39,7 @@ The phone's language is Turkish, so the buttons read "Yanıtla" (Reply) and "Oku
 Tested on the Xiaomi 15 Ultra.
 
 ## Install
-1. Install XReply.
-2. Enable it in LSPosed. The scope is System UI only.
-3. Reboot.
+XReply is no longer released. Install [XNotify](https://github.com/Leekin2/XNotify/releases/latest) instead: it has the same reply box and buttons.
 
 XReply has no settings screen: once it is enabled, every notification uses the HyperOS look.
 
@@ -78,9 +76,7 @@ XReply her uygulamaya HyperOS görünümünü verir ve yanıtı düzeltir.
 Xiaomi 15 Ultra'da test edildi.
 
 ### Kurulum
-1. XReply'ı kurun.
-2. LSPosed'da etkinleştirin. Kapsam yalnızca Sistem arayüzü (System UI).
-3. Telefonu yeniden başlatın.
+XReply artık yayınlanmıyor. Bunun yerine [XNotify](https://github.com/Leekin2/XNotify/releases/latest) kurun: aynı yanıt kutusu ve butonlar onda var.
 
 XReply'ın ayar ekranı yoktur: etkinleştirdiğiniz anda tüm bildirimler HyperOS görünümünü kullanır.
 
