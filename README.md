@@ -3,6 +3,10 @@
 **Real HyperOS 4 notification replies instead of the AOSP ones.**
 An LSPosed module for the HyperOS 4 China ROM.
 
+> **XReply is now part of [XNotify](https://github.com/Leekin2/XNotify).** XReply gets no more updates. Uninstall XReply, install [XNotify 4.0 or newer](https://github.com/Leekin2/XNotify/releases/latest) and reboot: it has the same reply box and buttons, plus a settings screen.
+>
+> **XReply artık [XNotify](https://github.com/Leekin2/XNotify)'ın içinde.** XReply bundan sonra güncellenmeyecek. XReply'ı kaldırın, [XNotify 4.0 veya yenisini](https://github.com/Leekin2/XNotify/releases/latest) kurun ve yeniden başlatın: aynı yanıt kutusu ve butonlar, üstüne bir ayar ekranı.
+
 [Türkçe açıklama aşağıda](#türkçe)
 
 ## Why
