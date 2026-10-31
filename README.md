@@ -3,6 +3,11 @@
 **Real HyperOS 4 notification replies instead of the AOSP ones.**
 An LSPosed module for the HyperOS 4 China ROM.
 
+> **XReply has moved to [XApps](https://github.com/Leekin2/XApps)** (io.github.leekin2.xapps): XGoogle, XSecurity and XNotify in one module. XReply gets no more updates.
+> Flash the **XApps zip** from the [latest release](https://github.com/Leekin2/XApps/releases/latest) in KernelSU / Magisk and restart fully: it installs XApps, sets up LSPosed, moves your XReply settings and removes XReply by itself. Do not install the XApps APK next to XReply.
+>
+> **XReply artık [XApps](https://github.com/Leekin2/XApps) içinde** ve güncellenmeyecek. XApps zip'ini root yöneticisinde kurup telefonu tamamen yeniden başlatın: ayarlarınızı taşır ve XReply'i kendisi kaldırır.
+
 > **XReply is now part of [XNotify](https://github.com/Leekin2/XNotify).** XReply gets no more updates. Uninstall XReply, install [XNotify 4.0 or newer](https://github.com/Leekin2/XNotify/releases/latest) and reboot: it has the same reply box and buttons, plus a settings screen.
 >
 > **XReply artık [XNotify](https://github.com/Leekin2/XNotify)'ın içinde.** XReply bundan sonra güncellenmeyecek. XReply'ı kaldırın, [XNotify 4.0 veya yenisini](https://github.com/Leekin2/XNotify/releases/latest) kurun ve yeniden başlatın: aynı yanıt kutusu ve butonlar, üstüne bir ayar ekranı.
